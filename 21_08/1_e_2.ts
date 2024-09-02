@@ -75,3 +75,7 @@ class ContaCorrente extends ContaBancaria {
 const contaCorrenteExemplo = new ContaCorrente('Felipe', 10000, 3000);
 console.log(contaCorrenteExemplo.exibirSaldo());
 
+// Exercício 3
+
+
+
